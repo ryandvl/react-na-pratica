@@ -93,7 +93,7 @@ export function App() {
         </div>
 
         <div className="flex items-center justify-between">
-          <div className="flex items-center">
+          <div className="flex items-center gap-3">
             <Input variant="filter">
               <SearchIcon className="size-3" />
               <Control
